@@ -485,9 +485,9 @@
 }
 
 .counter .count-number {
-    font-size: 2rem; 
+    font-size: 5rem; 
     font-weight: bold; 
-	color: #e66e39;
+	color: #ff4e00;
 }
 
 .counter .brand-name {
